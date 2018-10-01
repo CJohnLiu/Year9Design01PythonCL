@@ -1,2 +1,1 @@
-print("Hello World") 
-print("no u")
+print("Hello World")
