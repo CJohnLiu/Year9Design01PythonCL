@@ -5,7 +5,7 @@ import tkinter as tk
 def clicked1(event):
 
 
-root = tk.Tk()
+	hgroot = tk.Tk()
 
 output = tk.Text(root,height = 30, width = 30)
 
